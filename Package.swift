@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "DummySDKPackage",
+    name: "SecSDKPackage",
     platforms: [
         .iOS(.v13)
     ],
